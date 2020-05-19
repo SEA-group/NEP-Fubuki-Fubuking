@@ -11,16 +11,16 @@
 	</property>
 	<collisionFlags>	0	</collisionFlags>
 	<property>	normalMap
-		<Texture>	PnFMods/Fubuking_Fubuki/JSD106_Fubuki/gun/JGT022_610mm3_Type_93_n.dds	</Texture>
+		<Texture>	PnFMods/SEA_NEP_Fubuki_Fubuking/JSD106_Fubuki/gun/JGT022_610mm3_Type_93_n.dds	</Texture>
 	</property>
 	<property>	ambientOcclusionMap
-		<Texture>	PnFMods/Fubuking_Fubuki/JSD106_Fubuki/gun/default_ao.dds	</Texture>
+		<Texture>	PnFMods/SEA_NEP_Fubuki_Fubuking/JSD106_Fubuki/gun/default_ao.dds	</Texture>
 	</property>
 	<property>	metallicGlossMap
-		<Texture>	PnFMods/Fubuking_Fubuki/JSD106_Fubuki/gun/JGT022_610mm3_Type_93_mg.dds	</Texture>
+		<Texture>	PnFMods/SEA_NEP_Fubuki_Fubuking/JSD106_Fubuki/gun/JGT022_610mm3_Type_93_mg.dds	</Texture>
 	</property>
 	<property>	diffuseMap
-		<Texture>	PnFMods/Fubuking_Fubuki/JSD106_Fubuki/gun/JGT022_610mm3_Type_93_a.dds	</Texture>
+		<Texture>	PnFMods/SEA_NEP_Fubuki_Fubuking/JSD106_Fubuki/gun/JGT022_610mm3_Type_93_a.dds	</Texture>
 	</property>
 	<property>	detailMap
 		<Texture>	content/gameplay/common/textures/ship_atlas_detail.dds	</Texture>

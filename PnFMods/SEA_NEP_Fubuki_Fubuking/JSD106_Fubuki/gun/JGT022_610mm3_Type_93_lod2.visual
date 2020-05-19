@@ -57,7 +57,7 @@
 			<primitiveGroup>	0
 				<material>
 					<identifier>	SHIPMAT_PBS_GunXX	</identifier>
-					<mfm>	PnFMods/Fubuking_Fubuki/JSD106_Fubuki/gun/JGT022_610mm3_Type_93.mfm	</mfm>
+					<mfm>	PnFMods/SEA_NEP_Fubuki_Fubuking/JSD106_Fubuki/gun/JGT022_610mm3_Type_93.mfm	</mfm>
 				</material>
 			</primitiveGroup>
 		</geometry>

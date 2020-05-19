@@ -44,7 +44,7 @@
 			<primitiveGroup>	0
 				<material>
 					<identifier>	SHIPMAT_PBS_GunXX	</identifier>
-					<mfm>	PnFMods/Fubuking_Fubuki/JSD106_Fubuki/gun/JM391_Depth_Charge_Thrower.mfm	</mfm>
+					<mfm>	PnFMods/SEA_NEP_Fubuki_Fubuking/JSD106_Fubuki/gun/JM391_Depth_Charge_Thrower.mfm	</mfm>
 				</material>
 			</primitiveGroup>
 		</geometry>

@@ -30,7 +30,7 @@
 			<primitiveGroup>	0
 				<material>
 					<identifier>	SHIPMAT_PBS_radar	</identifier>
-					<mfm>	PnFMods/Fubuking_Fubuki/JSD106_Fubuki/director/JD074_Director_Type_13.mfm	</mfm>
+					<mfm>	PnFMods/SEA_NEP_Fubuki_Fubuking/JSD106_Fubuki/director/JD074_Director_Type_13.mfm	</mfm>
 				</material>
 			</primitiveGroup>
 		</geometry>

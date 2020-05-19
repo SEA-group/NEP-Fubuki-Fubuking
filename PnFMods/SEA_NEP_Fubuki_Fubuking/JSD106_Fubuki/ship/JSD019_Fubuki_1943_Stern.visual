@@ -53,13 +53,13 @@
 			<primitiveGroup>	0
 				<material>
 					<identifier>	SHIPMAT_PBS_HullXX	</identifier>
-					<mfm>	PnFMods/Fubuking_Fubuki/JSD106_Fubuki/ship/JSD007_Fubuki_1944.mfm	</mfm>
+					<mfm>	PnFMods/SEA_NEP_Fubuki_Fubuking/JSD106_Fubuki/ship/JSD007_Fubuki_1944.mfm	</mfm>
 				</material>
 			</primitiveGroup>
 			<primitiveGroup>	1
 				<material>
 					<identifier>	SHIPMAT_PBS_HullXX_wire2	</identifier>
-					<mfm>	PnFMods/Fubuking_Fubuki/JSD106_Fubuki/ship/JSD007_Fubuki_1944_wire2.mfm	</mfm>
+					<mfm>	PnFMods/SEA_NEP_Fubuki_Fubuking/JSD106_Fubuki/ship/JSD007_Fubuki_1944_wire2.mfm	</mfm>
 				</material>
 			</primitiveGroup>
 		</geometry>
@@ -73,7 +73,7 @@
 			<primitiveGroup>	0
 				<material>
 					<identifier>	SHIPMAT_PBS_HullXX	</identifier>
-					<mfm>	PnFMods/Fubuking_Fubuki/JSD106_Fubuki/ship/JSD007_Fubuki_1944.mfm	</mfm>
+					<mfm>	PnFMods/SEA_NEP_Fubuki_Fubuking/JSD106_Fubuki/ship/JSD007_Fubuki_1944.mfm	</mfm>
 				</material>
 			</primitiveGroup>
 		</geometry>
@@ -87,7 +87,7 @@
 			<primitiveGroup>	0
 				<material>
 					<identifier>	SHIPMAT_PBS_Crack	</identifier>
-					<mfm>	PnFMods/Fubuking_Fubuki/JSD106_Fubuki/ship/C002_Razlom.mfm	</mfm>
+					<mfm>	PnFMods/SEA_NEP_Fubuki_Fubuking/JSD106_Fubuki/ship/C002_Razlom.mfm	</mfm>
 				</material>
 			</primitiveGroup>
 		</geometry>
@@ -101,7 +101,7 @@
 			<primitiveGroup>	0
 				<material>
 					<identifier>	SHIPWIRE_PBS_Hull	</identifier>
-					<mfm>	PnFMods/Fubuking_Fubuki/JSD106_Fubuki/ship/JSD007_Fubuki_1944_wire.mfm	</mfm>
+					<mfm>	PnFMods/SEA_NEP_Fubuki_Fubuking/JSD106_Fubuki/ship/JSD007_Fubuki_1944_wire.mfm	</mfm>
 				</material>
 			</primitiveGroup>
 		</geometry>

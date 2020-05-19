@@ -14,15 +14,15 @@
 	</property>
 	<collisionFlags>	0	</collisionFlags>
 	<property>	ambientOcclusionMap
-		<Texture>	PnFMods/Fubuking_Fubuki/JSD106_Fubuki/finder/default_ao.dds	</Texture>
+		<Texture>	PnFMods/SEA_NEP_Fubuki_Fubuking/JSD106_Fubuki/finder/default_ao.dds	</Texture>
 	</property>
 	<property>	diffuseMap
-		<Texture>	PnFMods/Fubuking_Fubuki/JSD106_Fubuki/finder/JF054_Rangefinder_2_5m_a.dds	</Texture>
+		<Texture>	PnFMods/SEA_NEP_Fubuki_Fubuking/JSD106_Fubuki/finder/JF054_Rangefinder_2_5m_a.dds	</Texture>
 	</property>
 	<property>	metallicGlossMap
-		<Texture>	PnFMods/Fubuking_Fubuki/JSD106_Fubuki/finder/JF054_Rangefinder_2_5m_mg.dds	</Texture>
+		<Texture>	PnFMods/SEA_NEP_Fubuki_Fubuking/JSD106_Fubuki/finder/JF054_Rangefinder_2_5m_mg.dds	</Texture>
 	</property>
 	<property>	normalMap
-		<Texture>	PnFMods/Fubuking_Fubuki/JSD106_Fubuki/finder/JF054_Rangefinder_2_5m_n.dds	</Texture>
+		<Texture>	PnFMods/SEA_NEP_Fubuki_Fubuking/JSD106_Fubuki/finder/JF054_Rangefinder_2_5m_n.dds	</Texture>
 	</property>
 </JF054_Rangefinder_2_5m_skinned.mfm>

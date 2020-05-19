@@ -253,7 +253,7 @@
 			<primitiveGroup>	0
 				<material>
 					<identifier>	SHIPMAT_PBS_GunX_skinned	</identifier>
-					<mfm>	PnFMods/Fubuking_Fubuki/JSD106_Fubuki/gun/JGM151_127mm50_Type_C_skinned.mfm	</mfm>
+					<mfm>	PnFMods/SEA_NEP_Fubuki_Fubuking/JSD106_Fubuki/gun/JGM151_127mm50_Type_C_skinned.mfm	</mfm>
 				</material>
 			</primitiveGroup>
 		</geometry>
